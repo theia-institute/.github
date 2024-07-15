@@ -36,12 +36,12 @@ happy to help!
 
 ## Other Theia Institute™ Links and Resources
 
-| Icon                                                                  | Description                                | URL                                                 |
-|:----------------------------------------------------------------------|:-------------------------------------------|:----------------------------------------------------|
-| ![WWW globe icon](images/www.svg)                                     | Theia Institute™ Home Page                 | <https://www.theiathinktank.com/>                   |
-| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | LinkedIn Company Page                      | <https://www.linkedin.com/company/theia-institute/> |
-| ![Mastodon social media icon](images/social_media_icons/mastodon.svg) | @theia&commat;infosec.exchange on Mastodon | <https://infosec.exchange/@theia>                   |
-| ![X Social media icon](images/social_media_icons/x.svg)               | @theia_institute on X/Twitter              | <https://x.com/theia_institute>                     |
+| Icon                                                                  | Description                                       | URL                                                 |
+|:----------------------------------------------------------------------|:--------------------------------------------------|:----------------------------------------------------|
+| ![WWW globe icon](images/www.svg)                                     | Theia Institute™ Home Page                        | <https://www.theiathinktank.com/>                   |
+| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | LinkedIn Company Page                             | <https://www.linkedin.com/company/theia-institute/> |
+| ![Mastodon social media icon](images/social_media_icons/mastodon.svg) | &commat;theia&commat;infosec.exchange on Mastodon | <https://infosec.exchange/@theia>                   |
+| ![X Social media icon](images/social_media_icons/x.svg)               | @theia_institute on X/Twitter                     | <https://x.com/theia_institute>                     |
 
 
 ---
