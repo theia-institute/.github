@@ -1,4 +1,5 @@
 # Theia Institute™ Non-Profit Think Tank
+ <a href="https://infosec.exchange/@theia" rel="me external"></a>
 
 <figure>
   <img src="images/Theia_Institute_GitHub_Banner_1024x217@72.png" alt=Theia Institute™ trademarked logo" width="600">
