@@ -2,11 +2,7 @@
 
 <figure>
   <img src="images/Theia_Institute_GitHub_Banner_1024x217@72.png" alt=Theia Institute™ trademarked logo" width="600">
-  <figcaption>
-    <xx-small><em>
-      Cutting-edge thought leadership reframing emerging technologies in AI and cybersecurity for the 21st century.℠
-    </em></xx-small>
-  </figcaption>
+  <figcaption><small><em>Cutting-edge thought leadership reframing emerging technologies in AI and cybersecurity for the 21st century.</em></small></figcaption>
 </figure>
 
 ## Overview
