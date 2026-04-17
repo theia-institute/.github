@@ -56,7 +56,7 @@ happy to help!
 | Icon                                                                  | Description or Handle        | URL                                                 |
 |:----------------------------------------------------------------------|:-----------------------------|:----------------------------------------------------|
 | ![WWW globe icon](images/www.svg)                                     | Home Page                    | <https://theiathinktank.com/>                   |
-| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | @Theia%20Institute           | <https://www.linkedin.com/company/theia-institute-think-tank/> |
+| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | @Theia&nbsp;Institute        | <https://www.linkedin.com/company/theia-institute-think-tank/> |
 | ![Mastodon social media icon](images/social_media_icons/mastodon.svg) | @theia<wbr>@infosec.exchange | <https://infosec.exchange/@theia>                   |
 | ![X/Twitter social media icon](images/social_media_icons/x.svg)       | @theia_institute             | <https://x.com/theia_institute>                     |
 
