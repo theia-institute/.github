@@ -64,3 +64,4 @@ happy to help!
 ---
 
 <small>© 2023-2026 Theia Institute. All rights reserved.</small>
+<a rel="me" href="https://infosec.exchange/@theia"></a>
