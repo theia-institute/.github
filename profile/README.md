@@ -1,8 +1,11 @@
 # Theia Institute™ Non-Profit Think Tank
 
 <figure>
-  <img src="images/Theia_Institute_GitHub_Banner_1024x217@72.png" alt=Theia Institute™ trademarked logo">
-  <figcaption>Cutting-edge thought leadership reframing emerging technologies in AI and cybersecurity for the 21st century.℠</figcaption>
+  <img src="images/Theia_Institute_GitHub_Banner_1024x217@72.png" alt=Theia Institute™ trademarked logo" style="width=:50%;">
+  <figcaption style="font-variant:small-caps;font-size:smaller;">
+    Cutting-edge thought leadership reframing emerging technologies in
+    AI and cybersecurity for the 21st century.℠
+  </figcaption>
 </figure>
 
 ## Overview
@@ -53,8 +56,8 @@ happy to help!
 
 | Icon                                                                  | Description or Handle        | URL                                                 |
 |:----------------------------------------------------------------------|:-----------------------------|:----------------------------------------------------|
-| ![WWW globe icon](images/www.svg)                                     | Think Tank Home Page         | <https://www.theiathinktank.com/>                   |
-| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | @Theia Institute™            | <https://www.linkedin.com/company/theia-institute/> |
+| ![WWW globe icon](images/www.svg)                                     | Home Page                    | <https://theiathinktank.com/>                   |
+| ![LinkedIn social media icon](images/social_media_icons/linkedin.png) | @Theia%20Institute           | <https://www.linkedin.com/company/theia-institute-think-tank/> |
 | ![Mastodon social media icon](images/social_media_icons/mastodon.svg) | @theia<wbr>@infosec.exchange | <https://infosec.exchange/@theia>                   |
 | ![X/Twitter social media icon](images/social_media_icons/x.svg)       | @theia_institute             | <https://x.com/theia_institute>                     |
 
