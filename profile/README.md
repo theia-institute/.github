@@ -63,4 +63,4 @@ happy to help!
 
 ---
 
-© 2023-2026 Theia Institute. All rights reserved.
+<small>© 2023-2026 Theia Institute. All rights reserved.</small>
