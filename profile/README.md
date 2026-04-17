@@ -1,7 +1,7 @@
 # Theia Institute™ Non-Profit Think Tank
 
 <figure>
-  <img src="images/Theia_Institute_Trademarked_Logo.jpg" alt=Theia Institute™ trademarked logo">
+  <img src="images/Theia_Institute_GitHub_Banner_1024x217@72.png" alt=Theia Institute™ trademarked logo">
   <figcaption>Cutting-edge thought leadership reframing emerging technologies in AI and cybersecurity for the 21st century.℠</figcaption>
 </figure>
 
